@@ -1,4 +1,4 @@
-# ArkanoidCloneJS https://nogumart.github.io/ArkanoidCloneJS/
+# ArkanoidCloneJS https://martfn.github.io/ArkanoidCloneJS/
  a messy clone of taito's arkanoid, made in javascript for a school project.
 
 ## Keep in mind it's a buggy and incomplete mess.
